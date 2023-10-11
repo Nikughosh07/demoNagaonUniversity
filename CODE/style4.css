@@ -1,0 +1,73 @@
+body
+{
+margin: 0;
+padding: 0;
+}
+
+
+
+.container{
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+}
+.box
+{
+width: 22%;
+
+float: left;
+background-color: paleturquoise;
+border-radius: 5px;
+box-shadow: 0 7px 7px grey;
+margin: 40px 20px;
+}
+.box img
+{ 
+width: 50%;
+height: 150px;
+border-radius: 145px 145px 145px 145px;
+}
+.box h3
+{
+margin-left: 1px;
+}
+
+
+.box p{
+
+font-size: 5px;
+line-height: 27px;
+padding: 0 15px 15px 15px;
+overflow: hidden;
+}
+#btn{
+background-color: red;
+color: #fff;
+padding: 10px;
+margin: 15px;
+border-radius: 5px;
+float: right;
+}
+#btn:hover
+{
+background-color: black;
+box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+}
+.scroll
+{background-color: yellow;
+border: 1px solid black;
+height: 100%;
+width: 100%;
+overflow-x: 
+scroll;
+}
+
+
+
+
+
+
+
+
+ 
+}
